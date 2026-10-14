@@ -141,7 +141,7 @@ export const services: ServiceDef[] = [
     url: "https://x402.ochinimus.app",
     serviceUrl: "https://x402.ochinimus.app",
     description:
-      "Crypto market data for AI agents (liquidations, funding, open interest, prices), Solana pre-trade checks, OFAC sanctions screening, scholarly papers, utilities and fixed-purpose language tasks (OCR, translate, summarize, extract, classify, prompt-injection check, transcribe). 82 data routes, $0.001 to $0.10 per call, each answering 402 with an MPP tempo charge challenge beside its x402 challenge (USDC on six rails). No API key is needed to pay per call; prepaid API keys are offered for bots that cannot pay x402.",
+      "Crypto market data for AI agents (liquidations, funding, open interest, prices), Solana pre-trade checks, OFAC sanctions screening, scholarly papers, utilities and fixed-purpose language tasks (OCR, translate, summarize, extract, classify, prompt-injection check, transcribe). 82 data routes, $0.001 to $0.10 per call, each answering 402 with an MPP tempo charge challenge beside its x402 challenge (USDC on 9 networks in every 402: Solana, Base, Polygon, Arbitrum, Arc, Algorand, Optimism, Monad, Avalanche; 11 more on request). No API key is needed to pay per call; prepaid API keys are offered for bots that cannot pay x402.",
     icon: "https://x402.ochinimus.app/icon.png",
     categories: ["blockchain", "data"],
     integration: "first-party",
